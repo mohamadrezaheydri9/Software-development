@@ -1,0 +1,162 @@
+<mxfile host="Electron" modified="2025-05-08T13:14:54.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="Vgt3M7_C3C-wT9dKfpZY" version="24.4.13" type="device">
+  <diagram name="Page-1" id="vXnJUVoxWKac1y743cGE">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="990" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-8" value="کار بر&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="140" width="210" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="JSZ451UwGa8DlbHjbhh1-8" vertex="1">
+          <mxGeometry y="150" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-15" value="نام کاربر&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-8" vertex="1">
+          <mxGeometry y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-16" value="نام&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-8" vertex="1">
+          <mxGeometry x="5" y="58" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-17" value="ایمیل&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-8" vertex="1">
+          <mxGeometry x="5" y="90" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-18" value="رمز عبور&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-8" vertex="1">
+          <mxGeometry x="-5" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-3" value="int" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-8">
+          <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-4" value="string" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-8">
+          <mxGeometry x="65" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-5" value="string" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-8">
+          <mxGeometry x="65" y="88" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-6" value="string" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-8">
+          <mxGeometry x="60" y="118" width="65" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-7" value="boolean" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-8">
+          <mxGeometry x="60" y="168" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-27" value="ثبت نام&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="345" y="308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-28" value="ورود&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="345" y="348" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-33" value="سبد خرید&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="480" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="JSZ451UwGa8DlbHjbhh1-33" vertex="1">
+          <mxGeometry y="80" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-46" value="افزودن محصول&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-33" vertex="1">
+          <mxGeometry x="-5" y="98" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-50" value="محاسبه .جمع کل" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-33" vertex="1">
+          <mxGeometry y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-15" value="محصول&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-33">
+          <mxGeometry x="85" y="98" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-17" value="float" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-33">
+          <mxGeometry x="90" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-43" value="محصولات&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="555" y="518" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-48" value="حذف محصول&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="608" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-52" value="مورد سفارش&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="490" width="200" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-53" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="JSZ451UwGa8DlbHjbhh1-52" vertex="1">
+          <mxGeometry y="80" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-63" value="قیمت واحد&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-52" vertex="1">
+          <mxGeometry y="45" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-66" value="محاسبه زیر مجموعه&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-52" vertex="1">
+          <mxGeometry y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-12" value="float" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-52">
+          <mxGeometry x="110" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-62" value="تعداد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="508" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-68" value="محصول&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="185" y="720" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-82" value="نام&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JSZ451UwGa8DlbHjbhh1-68" vertex="1">
+          <mxGeometry x="10" y="58" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-18" value="string" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-68">
+          <mxGeometry x="50" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-19" value="int" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-68">
+          <mxGeometry x="50" y="28" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-20" value="float" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-68">
+          <mxGeometry x="65" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-21" value="int" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-68">
+          <mxGeometry x="70" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-22" value="string" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-68">
+          <mxGeometry x="70" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-23" value="float" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JSZ451UwGa8DlbHjbhh1-68">
+          <mxGeometry x="70" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-78" value="نام کاربری&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="748" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-83" value="قیمت&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="195" y="808" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-85" value="موجودی&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="838" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-87" value="دسته بندی&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="858" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-88" value="تخفیف&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="185" y="888" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.385;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JSZ451UwGa8DlbHjbhh1-8" target="JSZ451UwGa8DlbHjbhh1-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JSZ451UwGa8DlbHjbhh1-18" target="JSZ451UwGa8DlbHjbhh1-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSZ451UwGa8DlbHjbhh1-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="JSZ451UwGa8DlbHjbhh1-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-8" value="boolean" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="348" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-9" value="int" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="508" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-10" value="fliat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="538" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-14" value="list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGyQoNoLxjxPN5b5KyJz-16" value="محصول&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="605" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
