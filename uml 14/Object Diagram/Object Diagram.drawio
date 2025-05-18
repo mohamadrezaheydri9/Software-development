@@ -1,0 +1,190 @@
+<mxfile host="Electron" modified="2025-05-18T20:35:28.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="wxI_jsS8nBfHYKJcvdxg" version="24.4.13" type="device">
+  <diagram name="Page-1" id="d_X2T3x38Yk57uzWpgd0">
+    <mxGraphModel dx="1509" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fqkMPTyp-VG18yrNODhT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="270" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-5" value="id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-6" value="mohamad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-7" value="نام&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-8" value="محمدرضا&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-9" value="ایمیل" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-10" value="mohamadheydri6@gmail.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-11" value="id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-12" value="mohammad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-13" value="تاریخ&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-14" value="1403/7/22" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-15" value="وضیعت&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-16" value="پرداخت شده" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-17" value="نام&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="251" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-18" value="شیر" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="251" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-19" value="قیمت&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-20" value="30.000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-22" value="موجودی&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-23" value="50.000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="331" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-24" value="تعداد&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-25" value="20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-26" value="محصول&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="491" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-27" value="123" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="491" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-30" value="" style="shape=link;html=1;rounded=0;entryX=1.014;entryY=0.203;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fqkMPTyp-VG18yrNODhT-3">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="490" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-32" value="محصول 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="211" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-33" value="" style="shape=link;html=1;rounded=0;entryX=1;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="400" y="449.65" as="sourcePoint" />
+            <mxPoint x="610" y="448.9449999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-34" value="مورد سفارش 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="411" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="250" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-38" value="نام&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-40" value="سیب&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="231" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-41" value="قیمت&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-42" value="10.000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="281" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-43" value="موجودی&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-44" value="100.000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="331" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-45" value="تعداد" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="451" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-46" value="20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="451" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-47" value="محصول&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="521" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-48" value="برنج&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="521" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-49" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" target="fqkMPTyp-VG18yrNODhT-37">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="40" y="441" as="sourcePoint" />
+            <mxPoint x="140" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-50" value="" style="shape=link;html=1;rounded=0;entryX=0.996;entryY=0.174;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fqkMPTyp-VG18yrNODhT-37">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="40" y="440" as="sourcePoint" />
+            <mxPoint x="140" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-51" value="مورد سفارش 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="412" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-52" value="" style="shape=link;html=1;rounded=0;entryX=1.011;entryY=0.176;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fqkMPTyp-VG18yrNODhT-36">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="40" y="230" as="sourcePoint" />
+            <mxPoint x="140" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-53" value="محصول 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="202" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-54" value="" style="shape=link;html=1;rounded=0;entryX=1.015;entryY=0.157;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fqkMPTyp-VG18yrNODhT-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="730" y="200" as="sourcePoint" />
+            <mxPoint x="830" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-55" value="کاربر&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="171" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-56" value="" style="shape=link;html=1;rounded=0;entryX=1.015;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fqkMPTyp-VG18yrNODhT-2">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="720" y="430" as="sourcePoint" />
+            <mxPoint x="820" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-57" value="سفارش&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fqkMPTyp-VG18yrNODhT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.069;entryY=-0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fqkMPTyp-VG18yrNODhT-1" target="fqkMPTyp-VG18yrNODhT-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

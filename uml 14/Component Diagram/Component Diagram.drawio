@@ -1,0 +1,68 @@
+<mxfile host="Electron" modified="2025-05-12T11:08:22.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="vmGS46au73vOo95mb43H" version="24.4.13" type="device">
+  <diagram name="Page-1" id="xccxeqwUKaw6QzZrmNWp">
+    <mxGraphModel dx="1687" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kozw6JnsApVLgsVxLo7B-1" target="Kozw6JnsApVLgsVxLo7B-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-1" value="فرانت‌اند" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="Kozw6JnsApVLgsVxLo7B-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="214.41" as="targetPoint" />
+            <mxPoint x="360" y="214.41" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="214" />
+              <mxPoint x="40" y="360" />
+              <mxPoint x="110" y="360" />
+              <mxPoint x="110" y="413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kozw6JnsApVLgsVxLo7B-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="280" />
+              <mxPoint x="381" y="280" />
+              <mxPoint x="381" y="350" />
+              <mxPoint x="230" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.321;entryY=-0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Kozw6JnsApVLgsVxLo7B-2" target="Kozw6JnsApVLgsVxLo7B-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-2" value="بک اند&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-4" value="سرویس ارسال&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-5" value="سرویس پرداخت&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="401" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-6" value="کاتالوگ محصولات&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="401" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-9" value="سرویس کاربر&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-10" value="سرویس سفارش&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Kozw6JnsApVLgsVxLo7B-2" target="Kozw6JnsApVLgsVxLo7B-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kozw6JnsApVLgsVxLo7B-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.364;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Kozw6JnsApVLgsVxLo7B-2" target="Kozw6JnsApVLgsVxLo7B-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

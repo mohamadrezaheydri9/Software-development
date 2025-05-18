@@ -1,0 +1,43 @@
+<mxfile host="Electron" modified="2025-05-12T11:15:30.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="tzI7b7T8YwJgTiPx1bY9" version="24.4.13" type="device">
+  <diagram name="Page-1" id="_CKrY0026iZIZY60GMiD">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-2" value="مشتری&amp;nbsp;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-3" value="مرورگر" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="385" y="135" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-4" value="سرور وب&amp;nbsp;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="325" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oXlDpKEDg4Zwha4vC1UZ-5" target="oXlDpKEDg4Zwha4vC1UZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-5" value="برنامه وب&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-6" value="سرور پایگاه داده&amp;nbsp;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-7" value="درگاه پرداخت&amp;nbsp;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-8" value="my sqlپایگاه داده&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="565" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-9" value="در گاه پرداخت انلاین&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="675" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oXlDpKEDg4Zwha4vC1UZ-3" target="oXlDpKEDg4Zwha4vC1UZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXlDpKEDg4Zwha4vC1UZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.573;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oXlDpKEDg4Zwha4vC1UZ-5" target="oXlDpKEDg4Zwha4vC1UZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
+  <diagram name="‫صفحه - 1‬" id="ZE83JCWvptQ--PR7GEOe">
+    <mxGraphModel dx="1141" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-76" value="ورود به سیستم&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-77" value="فرایند خرید&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="300" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-78" target="XFQT50zC6AlC2kEd5-D_-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-78" value="مرور محصولات&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-79" target="XFQT50zC6AlC2kEd5-D_-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-79" value="انتخاب محصول&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-80" value="اضافه کردن سبد به خرید&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-81" target="XFQT50zC6AlC2kEd5-D_-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-81" value="مشاهد سبد به خرید&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-82" target="XFQT50zC6AlC2kEd5-D_-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-82" value="پرداخت&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="590" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-83" target="XFQT50zC6AlC2kEd5-D_-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-83" value="وارد کردن ادرس&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-84" target="XFQT50zC6AlC2kEd5-D_-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-84" value="انتخاب روش پرداخت&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="820" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-86" target="XFQT50zC6AlC2kEd5-D_-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-86" value="پرداخت انلاین&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="950" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-88" value="نمایش تایید خرید&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1080" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-80" target="XFQT50zC6AlC2kEd5-D_-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFQT50zC6AlC2kEd5-D_-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XFQT50zC6AlC2kEd5-D_-76" target="XFQT50zC6AlC2kEd5-D_-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
